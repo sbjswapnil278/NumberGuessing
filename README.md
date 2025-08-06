@@ -1,4 +1,4 @@
-# NumberGussing
+# NumberGame
 A simple Java-based number guessing game developed as task 1 of internship at CodSoft.
 ## How It Works
 - A random number between 1 and 100 is generated.
