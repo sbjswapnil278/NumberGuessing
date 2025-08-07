@@ -15,7 +15,6 @@ A simple Java-based number guessing game developed as task 1 of internship at Co
 - 'NumberGussing.java' - Main game logic.
 
 ## How to Run
-'''bash
 
 javac NumberGussing.java
 
