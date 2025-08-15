@@ -16,6 +16,6 @@ A simple Java-based number guessing game developed as task 1 of internship at Co
 
 ## How to Run
 
-javac NumberGussing.java
+javac NumberGame.java
 
-java NumberGussing
+java NumberGame
